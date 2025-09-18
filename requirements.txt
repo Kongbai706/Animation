@@ -1,0 +1,4 @@
+matplotlib
+pandas
+numpy
+# cartopy  # Uncomment if you want to use cartopy for map plotting
